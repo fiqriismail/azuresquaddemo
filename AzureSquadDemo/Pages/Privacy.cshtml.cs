@@ -19,6 +19,7 @@ namespace AzureSquadDemo.Pages
 
         public void OnGet()
         {
+            throw new Exception("Something went wrong");
         }
     }
 }
